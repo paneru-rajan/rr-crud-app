@@ -1,10 +1,25 @@
 # CRUD App
-This app will do a simple create/read/update and delete operation from a simple webpage. 
 
-## Student exposure towards programming language
-All student are familiar with basic programming terminology. Does not have an exposure in Python.
+This app will do a simple create/read/update and delete operation from a simple webpage.
 
-## Basic Python
+## Topics we will cover:
+
+### Database
+
+* Database setup using docker
+* Schema/Table Creation
+* Manipulate data from Pycharm
+
+### Python App
+
+* Connects to db
+* Expose an endpoint (API) for CRUD
+
+## Front-end
+
+* Simple html table to do CRUD
+
+During this we will be covering following python basics:
 
 **Introduction**
 
@@ -30,13 +45,16 @@ All student are familiar with basic programming terminology. Does not have an ex
 * Python Dictionary
 
 **Python Object & Class**
+
 * Python OOP
 * Python Class
 
-Reference: https://www.programiz.com/python-programming
+**References:**
 
+* https://www.programiz.com/python-programming
 
 ## Instructor
-Name: Rajan Paneru
-Email: paneru.rajan@gmail.com
-Github: https://github.com/paneru-rajan/rr-crud-app
+
+* **Name:** Rajan Paneru
+* **Email:** paneru.rajan@gmail.com
+* **Github:** https://github.com/paneru-rajan/rr-crud-app
