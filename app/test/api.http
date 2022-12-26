@@ -1,0 +1,21 @@
+# Get all students
+GET http://localhost:5000/student
+
+###
+# Get one student
+GET http://localhost:5000/student/1
+
+
+###
+# Add a student
+PUT http://localhost:5000/student/29
+Content-Type: application/json
+
+{
+  "name": "a2",
+  "email": "a2@example.com"
+}
+
+###
+# Add a student
+DELETE http://localhost:5000/student/29

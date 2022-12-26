@@ -1,1 +1,3 @@
 PyMySQL
+flask
+flask-cors
