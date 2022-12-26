@@ -1,5 +1,5 @@
 ### Add a student
-POST http://localhost:5000/student
+POST {{host}}/student
 Content-Type: application/json
 
 {
@@ -7,15 +7,18 @@ Content-Type: application/json
   "email": "user@example.com"
 }
 
+> {% client.global.set("student_id", response.body.id); %}
+
+
 ### Get all students
-GET http://localhost:5000/student
+GET {{host}}/student
 
 ### Get one student
-GET http://localhost:5000/student/1
+GET {{host}}/student/{{student_id}}
 
 
 ### Update a student
-PUT http://localhost:5000/student/1
+PUT {{host}}/student/{{student_id}}
 Content-Type: application/json
 
 {
@@ -24,4 +27,4 @@ Content-Type: application/json
 }
 
 ### Delete a student
-DELETE http://localhost:5000/student/1
+DELETE {{host}}/student/{{student_id}}
