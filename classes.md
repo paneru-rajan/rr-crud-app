@@ -41,3 +41,5 @@
 * Return a JSON response
 * Load JSON in browser using a plugin
 * Run HTTP from pycharm
+
+# Day 7 _(2022-12-27)_
