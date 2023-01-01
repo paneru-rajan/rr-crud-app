@@ -14,7 +14,7 @@ def add_student(name: str, email: str):
     cursor.execute(sql, (name, email))
     data = {'id': connection.insert_id(), 'name': name, 'email': email}
     connection.commit()
-    return data or 'DB table is empty'
+    return data or []
 
 
 def get_all_student():
