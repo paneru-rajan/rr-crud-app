@@ -43,3 +43,26 @@
 * Run HTTP from pycharm
 
 # Day 7 _(2022-12-27)_
+
+* GET One / All Request using `/student` endpoint
+* Pycharm Http, Curl to show api calls
+* Help setup app in student's pc
+
+# Day 8 _(2022-12-28)_
+
+* Set-up app in student's PC
+* Help resolve bugs
+
+# Day 9 _(2022-12-29)_
+
+* Set-up app in student's PC
+* Help resolve bugs
+
+# Day 10 _(2023-01-01)_
+
+* Set-up app in student's PC
+* Help resolve bugs
+
+# Day 11 _(2023-01-02)_
+
+* 
