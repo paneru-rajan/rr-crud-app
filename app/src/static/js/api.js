@@ -1,4 +1,4 @@
-API_HOST = 'http://0.0.0.0:5000';
+API_HOST = 'http://localhost:5000';
 
 async function getAllStudent () {
   return await $.get(`${API_HOST}/student`);

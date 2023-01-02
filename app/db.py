@@ -1,10 +1,10 @@
 import pymysql
 
-connection = pymysql.connect(host='0.0.0.0',
+connection = pymysql.connect(host='localhost',
                              user='root',
-                             password='root',
-                             port=3310,
-                             database='third_sem',
+                             # password='root', # if you've set the password, uncomment this to add the db password
+                             port=3306,
+                             database='third_sem',  # set the db/schema name
                              cursorclass=pymysql.cursors.DictCursor)
 cursor = connection.cursor()
 
