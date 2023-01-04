@@ -16,7 +16,7 @@ Read and follow instruction to run this app in your system.
 ## Start API
 
 1. Clone app `git clone https://github.com/paneru-rajan/rr-crud-app.git` or you can download
-1. Open the app using pycharm
+2. Open the app using pycharm
 3. Configure virtual env, usually pycharm ask when you open the project for the first time
 4. Make sure the `venv` is all set, if you open a terminal `(venv)` will be shown on the left
 5. Configure database in [db.py](db.py) file
