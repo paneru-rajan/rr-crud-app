@@ -65,4 +65,24 @@
 
 # Day 11 _(2023-01-02)_
 
-* 
+* Run app in Student PC
+* Show curl to make an api call from the CMD
+
+# Day 12 _(2023-01-03)_
+
+* Assign student to create `teacher` route
+* Reviewed code and progress
+* Help few student to run app (were left behind)
+
+# Day 13 _(2023-01-04)_
+
+*
+
+# Day 14 _(2023-01-05)_
+
+*
+
+# Day 15 _(2023-01-06)_
+
+* Q&A
+* Wrap up the class
